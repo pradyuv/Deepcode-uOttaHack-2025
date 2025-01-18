@@ -2,7 +2,7 @@
 
 ## DOCKER CMDs:
  docker build -t deepcodeapp .
- docker run deepcodeapp
+ docker-compose up
 
 
 
